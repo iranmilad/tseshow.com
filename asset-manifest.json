@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ba4685a5.css",
-    "main.js": "/static/js/main.9a6f5a9b.js",
+    "main.js": "/static/js/main.37a91a85.js",
     "static/js/374.5427e9d3.chunk.js": "/static/js/374.5427e9d3.chunk.js",
     "static/js/346.8a276373.chunk.js": "/static/js/346.8a276373.chunk.js",
     "static/js/32.2e44ed59.chunk.js": "/static/js/32.2e44ed59.chunk.js",
@@ -47,7 +47,7 @@
     "static/js/984.e894e929.chunk.js": "/static/js/984.e894e929.chunk.js",
     "static/js/681.fa77b818.chunk.js": "/static/js/681.fa77b818.chunk.js",
     "static/js/668.0464e9dd.chunk.js": "/static/js/668.0464e9dd.chunk.js",
-    "static/js/982.4262d595.chunk.js": "/static/js/982.4262d595.chunk.js",
+    "static/js/982.ceaec131.chunk.js": "/static/js/982.ceaec131.chunk.js",
     "static/js/819.e5ee1f8c.chunk.js": "/static/js/819.e5ee1f8c.chunk.js",
     "static/media/login.webp": "/static/media/login.622e8db874dcc5b7f79a.webp",
     "static/media/IRANSans.ttf": "/static/media/IRANSans.623768ac2bdc3c1f78df.ttf",
@@ -64,6 +64,6 @@
   },
   "entrypoints": [
     "static/css/main.ba4685a5.css",
-    "static/js/main.9a6f5a9b.js"
+    "static/js/main.37a91a85.js"
   ]
 }
